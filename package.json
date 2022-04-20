@@ -1,0 +1,26 @@
+{
+  "name": "projetonode-bd",
+  "version": "1.0.0",
+  "description": "Projeto Knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valcler-Manoel/ProjetoNODE-BD.git"
+  },
+  "keywords": [
+    "knex"
+  ],
+  "author": "Válcler Manoel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Valcler-Manoel/ProjetoNODE-BD/issues"
+  },
+  "homepage": "https://github.com/Valcler-Manoel/ProjetoNODE-BD#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "knex": "^1.0.7"
+  }
+}
